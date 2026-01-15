@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal on Christina&#39;s Lab</title>
+    <link>https://kiyosejinn.github.io/categories/journal/</link>
+    <description>Recent content in Journal on Christina&#39;s Lab</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 16 Jan 2026 02:41:34 +0900</lastBuildDate>
+    <atom:link href="https://kiyosejinn.github.io/categories/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>260115_日记</title>
+      <link>https://kiyosejinn.github.io/posts/260115_journal/</link>
+      <pubDate>Fri, 16 Jan 2026 02:41:34 +0900</pubDate>
+      <guid>https://kiyosejinn.github.io/posts/260115_journal/</guid>
+      <description>&lt;h2 id=&#34;今天发生了什么what&#34;&gt;今天发生了什么（What）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;搭建了hugo blog&lt;/li&gt;&#xA;&lt;li&gt;信息过载，沉浸在ai无所不能的大跃进里不可自拔（？&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>MerryChristmas</title>
+      <link>https://kiyosejinn.github.io/posts/251225_merrychristmas/</link>
+      <pubDate>Thu, 25 Dec 2025 21:00:00 +0900</pubDate>
+      <guid>https://kiyosejinn.github.io/posts/251225_merrychristmas/</guid>
+      <description>&lt;p&gt;一个人在东京的生活第一次遇到需要独自度过的圣诞节。提前买好了食材、香料、甜点和红酒，暖暖地在家里准备度过。圣诞前夜煮了豆乳锅，吃了买的蛋奶塔。晚上饿了又煮了酱油锅，锅料理真的很能在冬夜给人幸福感。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

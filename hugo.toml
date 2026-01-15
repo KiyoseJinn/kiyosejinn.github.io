@@ -1,0 +1,88 @@
+baseURL = "https://kiyosejinn.github.io"
+publishDir = "docs"
+languageCode = 'zh-cn'
+hasCJKLanguage = true
+summaryLength = 80
+title = "Christina's Lab"
+theme = "kong-htop"
+[pagination]
+  pagerSize = 10
+pluralizelisttitles = false
+
+[params]
+    title = "Christina's Lab"
+    brand = "Christina Lab"
+    brand_image = "/images/logo.jpg"
+    og_image = "/images/og-image.png"
+    publisher_icon = "/images/favicon.png"
+    favicon = "/images/favicon.png"
+    description = "思维、学习与工作记录·AI/日语/就活"
+    dark_mode = true
+    mainSections = ["posts"]
+    
+    # Busuanzi visitor statistics (disabled by default)
+    # Set to true to enable page view and visitor counting
+    busuanzi_enable = false
+
+    menu = [
+        {Name = "Home", URL = "/", HasChildren = false},
+        {Name = "Journal",URL = "/categories/journal/",  HasChildren = false},
+        {Name = "Study",  URL = "/categories/study/", HasChildren = false},
+        {Name = "Work",   URL = "/categories/work/",  HasChildren = false},
+        {Name = "Ideas",  URL = "/categories/ideas/",  HasChildren = false},
+        {Name = "About", URL = "/about/", HasChildren = false},
+        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+    ]
+
+    rss_icon = true
+    rss_section = "posts"
+
+    # Sidebar colors
+    sidebar_bg_color = "#202020"
+    sidebar_img_border_color = "#515151"
+    sidebar_p_color = "#909090"
+    sidebar_h1_color = "#FFF"
+    sidebar_a_color = "#FFF"
+    sidebar_socials_color = "#FFF"
+    moon_sun_color = "#FFF"
+    moon_sun_background_color = "#515151"
+
+    # Light mode
+    text_color = "#222"
+    content_bg_color = "#FAF9F6"
+    post_title_color = "#303030"
+    list_color = "#5a5a5a"
+    link_color = "#268bd2"
+    date_color = "#515151"
+    table_border_color = "#E5E5E5"
+    table_stripe_color = "#F9F9F9"
+
+    # Dark mode
+    text_color_dark = "#eee"
+    content_bg_color_dark = "#121212"
+    post_title_color_dark = "#DBE2E9"
+    list_color_dark = "#9d9d9d"
+    link_color_dark = "#268bd2"
+    date_color_dark = "#9a9a9a"
+    table_border_color_dark = "#515151"
+    table_stripe_color_dark = "#202020"
+
+[params.author]
+  name = "Christina Li"
+
+[params.meta]
+    favicon = true
+
+[taxonomies]
+    series = 'series'
+    tags = 'tags'
+    categories = 'categories'
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+    section = ["HTML"]
+    page = ["HTML"]
+
+[outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "index"

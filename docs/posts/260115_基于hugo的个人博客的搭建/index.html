@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-cn" lang="zh-cn">
+<head>
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script defer language="javascript" type="text/javascript" src="/js/bundle.min.8784b48c25819343cd53e6418eb90b8e518488ad284ffe16430f10c594200383.js"></script>
+
+
+
+
+
+
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+    <link rel="icon" href=/images/favicon.png>
+
+    
+    
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+  
+  
+    
+  
+  
+    
+  
+
+
+
+
+<title itemprop="name">Christina Lab - 基于hugo的个人博客的搭建</title>
+<meta property="og:title" content=Christina&#32;Lab&#32;-&#32;基于hugo的个人博客的搭建 />
+<meta name="twitter:title" content=Christina&#32;Lab&#32;-&#32;基于hugo的个人博客的搭建 />
+<meta itemprop="name" content=Christina&#32;Lab&#32;-&#32;基于hugo的个人博客的搭建 />
+<meta name="application-name" content=Christina&#32;Lab&#32;-&#32;基于hugo的个人博客的搭建 />
+<meta property="og:site_name" content="Christina&#39;s Lab" />
+
+
+<meta name="description" content="个人记录和观察的第一步" />
+<meta itemprop="description" content="个人记录和观察的第一步" />
+<meta property="og:description" content="个人记录和观察的第一步" />
+<meta name="twitter:description" content="个人记录和观察的第一步" />
+
+
+<base href="https://kiyosejinn.github.io/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/" />
+<link rel="canonical" href="https://kiyosejinn.github.io/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/" itemprop="url" />
+<meta name="url" content="https://kiyosejinn.github.io/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/" />
+<meta name="twitter:url" content="https://kiyosejinn.github.io/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/" />
+<meta property="og:url" content="https://kiyosejinn.github.io/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/" />
+
+
+
+
+
+<meta property="og:updated_time" content=15001-15-10T154:56:26&#43;0900 />
+
+
+<link rel="sitemap" type="application/xml" title="Sitemap" href='https://kiyosejinn.github.io/sitemap.xml' />
+
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow" />
+
+
+<meta name="twitter:site" content="" />
+<meta name="twitter:creator" content="" />
+<meta property="fb:admins" content="" />
+
+
+<meta name="apple-mobile-web-app-title" content="Christina&#39;s Lab" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+
+
+
+
+
+<meta property="og:type" content="website" />
+<meta name="author" content="map[name:Christina Li]" />
+<script defer type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "headline": "基于hugo的个人博客的搭建",
+    "author": {
+      "@type": "Person",
+      "name": ""
+    },
+    "datePublished": "2026-01-15",
+    "description": "个人记录和观察的第一步",
+    "wordCount": "901",
+    "mainEntityOfPage": "True",
+    "dateModified": "2026-01-15",
+    "image": {
+      "@type": "imageObject",
+      "url": ""
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Christina\u0027s Lab",
+      "logo": {
+        "@type": "imageObject",
+        "url": "\/images\/favicon.png"
+      }
+    }
+  }
+</script>
+
+
+
+<meta name="generator" content="Hugo 0.154.5">
+
+
+
+    
+    
+
+<link type="text/css" rel="stylesheet" href="/css/bundle.min.e63265f5c178ba55a151c24224b5185ba07bd28eec5ead4014d94f0d33819a69.css">
+
+
+    
+    <style>
+    body {
+        --sidebar-bg-color: #202020;
+        --sidebar-img-border-color: #515151;
+        --sidebar-p-color: #909090;
+        --sidebar-h1-color: #FFF;
+        --sidebar-a-color: #FFF;
+        --sidebar-socials-color: #FFF;
+        --text-color: #222;
+        --bkg-color: #FAF9F6;
+        --post-title-color: #303030;
+        --list-color: #5a5a5a;
+        --link-color: #268bd2;
+        --date-color: #515151;
+        --table-border-color: #E5E5E5;
+        --table-stripe-color: #F9F9F9;
+        --code-color: #bf616a;
+        --code-background-color: #E5E5E5;
+        --moon-sun-color: #FFF;
+        --moon-sun-background-color: #515151;
+    }
+    body.dark-theme {
+        --text-color: #eee;
+        --bkg-color: #121212;
+        --post-title-color: #DBE2E9;
+        --list-color: #9d9d9d;
+        --link-color: #268bd2;
+        --date-color: #9a9a9a;
+        --table-border-color: #515151;
+        --table-stripe-color: #202020;
+        --code-color: #ff7f7f;
+        --code-background-color: #393D47;
+    }
+    body {
+        background-color: var(--bkg-color);
+    }
+</style>
+
+</head>
+
+    <body class="dark-theme">
+        <div class="wrapper">
+            <aside class="sidebar">
+    <div class="container sidebar-sticky">
+        <div class="light-dark" align="right">
+    <button class="btn-light-dark" title="Toggle light/dark mode">
+        <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 16 16">
+            <path fill="currentColor" d="M6 .278a.768.768 0 0 1 .08.858a7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277c.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316a.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71C0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+        </svg>
+        <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 16 16">
+            <path fill="currentColor" d="M8 12a4 4 0 1 0 0-8a4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+        </svg>
+    </button>
+</div>
+
+
+        <div class="sidebar-about">
+    <h1 class="brand">
+        
+            <a href="https://kiyosejinn.github.io/">
+                <img src="/images/logo.jpg" alt="brand image">
+            </a>
+        
+        
+            <a href="https://kiyosejinn.github.io/">
+                <h1>Christina Lab</h1>
+            </a>
+        
+    </h1>
+    <p class="lead">
+    思维、学习与工作记录·AI/日语/就活
+    </p>
+</div>
+
+        <nav>
+    
+    <div class="sidebar-search-container">
+        <a href="/search/" class="sidebar-search-box" title="Search Articles (Ctrl+K)">
+            <svg class="search-icon-sidebar" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <path d="m21 21-4.35-4.35"></path>
+            </svg>
+            <span class="search-text">Search Articles</span>
+            <span class="search-shortcut">Ctrl+K</span>
+        </a>
+    </div>
+
+    
+    <div class="sidebar-random-container">
+        <button id="random-post-btn" class="sidebar-random-box" title="Visit a random article">
+            <svg class="random-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="16 3 21 3 21 8"></polyline>
+                <line x1="4" y1="20" x2="21" y2="3"></line>
+                <polyline points="21 16 21 21 16 21"></polyline>
+                <line x1="15" y1="15" x2="21" y2="21"></line>
+                <line x1="4" y1="4" x2="9" y2="9"></line>
+            </svg>
+            <span class="random-text">Random Article</span>
+        </button>
+    </div>
+
+    
+    
+        
+            <a href="/">Home</a>
+        
+    
+        
+            <a href="/categories/journal/">Journal</a>
+        
+    
+        
+            <a href="/categories/study/">Study</a>
+        
+    
+        
+            <a href="/categories/work/">Work</a>
+        
+    
+        
+            <a href="/categories/ideas/">Ideas</a>
+        
+    
+        
+            <a href="/about/">About</a>
+        
+    
+        
+            <p>Recent</p>
+            
+            
+                <a href="/posts/260115_journal/">260115_日记</a>
+            
+                <a href="/posts/260116_ideas%E6%B1%87%E6%80%BB/">260116_ideas汇总</a>
+            
+                <a href="/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/">基于hugo的个人博客的搭建</a>
+            
+                <a href="/posts/260114_%E5%B0%9D%E8%AF%95%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/">尝试开发日志01</a>
+            
+                <a href="/posts/251225_merrychristmas/">MerryChristmas</a>
+            
+            <a href="/posts/">See All Posts →</a>
+        
+    
+</nav>
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <a target="_blank" class="social" title="RSS Feed" href="https://kiyosejinn.github.io//posts/index.xml">
+        <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1.2em" viewBox="0 0 1280.000000 1280.000000">
+            <g transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)" fill="currentColor">
+                <path d="M2295 11929 c-284 -12 -642 -45 -707 -65 -17 -5 -18 -63 -18 -1039 0 -569 4 -1036 8 -1039 5 -3 74 6 153 19 510 86 1168 95 1789 25 1348 -153 2602 -677 3670 -1531 385 -308 820 -744 1126 -1129 842 -1060 1362 -2313 1514 -3650 70 -621 61 -1279 -25 -1789 -13 -79 -22 -148 -19 -153 3 -4 471 -8 1039 -8 l1035 0 5 23 c51 225 85 942 67 1419 -23 605 -77 1044 -198 1617 -294 1400 -927 2734 -1823 3846 -1043 1295 -2364 2259 -3909 2854 -1158 447 -2451 656 -3707 600z"/>
+                <path d="M2255 7845 c-269 -25 -620 -81 -667 -106 -17 -9 -18 -55 -18 -899 0 -706 3 -890 13 -890 6 0 66 18 132 41 130 44 288 79 467 105 154 21 577 30 749 15 1207 -107 2267 -823 2814 -1902 166 -327 268 -637 330 -1001 38 -227 48 -384 42 -662 -8 -348 -44 -590 -126 -831 -23 -66 -41 -126 -41 -132 0 -10 184 -13 890 -13 844 0 890 1 899 18 27 50 88 452 110 725 14 162 14 624 1 782 -59 703 -233 1323 -545 1945 -481 956 -1313 1788 -2270 2268 -620 310 -1239 483 -1940 542 -165 14 -669 10 -840 -5z"/>
+                <path d="M2519 3815 c-391 -66 -725 -336 -868 -703 -79 -201 -96 -462 -45 -677 83 -344 338 -641 666 -774 116 -47 205 -69 330 -80 412 -39 811 153 1040 500 193 292 240 648 128 981 -135 403 -492 699 -914 757 -100 14 -241 12 -337 -4z"/>
+            </g>
+        </svg>
+    </a>
+
+
+
+        
+
+
+
+        <p class="footnote">
+powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a target="_blank" href="https://github.com/yezihack/kong-htop">kong-htop</a>
+<br>
+&copy; 2026 Christina Li. All rights reserved.
+</p>
+
+  </div>
+</aside>
+
+            <main class="content container">
+                <div class="post">
+  <div class="info">
+    <h1 class="post-title">
+        <a href="https://kiyosejinn.github.io/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/">基于hugo的个人博客的搭建</a>
+    </h1>
+    
+        <time datetime="2026-01-15T22:54:56&#43;0900" class="post-date">
+            January 15, 2026
+        </time>
+    
+
+    
+    <div class="post-stats">
+        <span class="stat-item">
+            <span class="stat-label">Words:</span>
+            <span class="stat-value">901</span>
+        </span>
+        <span class="stat-separator">·</span>
+        <span class="stat-item">
+            <span class="stat-label">Reading:</span>
+            <span class="stat-value">2 min</span>
+        </span>
+        
+    </div>
+
+    
+    <div style="clear: both;"></div>
+
+    
+    <ul class="tags">
+        
+        <li class="tag-探索">
+            <a href="https://kiyosejinn.github.io/tags/%E6%8E%A2%E7%B4%A2">探索</a>
+        </li>
+        
+    </ul>
+    
+
+    
+    
+
+    
+</div>
+
+  <h2 id="背景--目的why">背景 / 目的（Why）</h2>
+<ul>
+<li>想搭建个人观测系统，需要长期记录自己，构建一个个人站来统筹</li>
+<li>hugo的博客基于本地文件，没有因为第三方商家停止服务后数据遗失的风险</li>
+</ul>
+<h2 id="数据--环境data--setup">数据 &amp; 环境（Data &amp; Setup）</h2>
+<ul>
+<li>用到的工具包： choco git go npm</li>
+<li>方法：根据教程及其他用户的使用说明搭建</li>
+</ul>
+<h2 id="过程记录what-i-did">过程记录（What I Did）</h2>
+<ul>
+<li>安装hugo，过程中熟悉了cmd的文件夹转移操作</li>
+<li>发现没有装git，同步安装了go
+<ul>
+<li>程序员失格，之前github都是用的desktop git的</li>
+</ul>
+</li>
+<li>在gpt指导下安装了papermod这个主题，但太简单
+<ul>
+<li>没有前端设计经验，自己装修太难，于是打算装一个其他用户已搭建好的theme</li>
+</ul>
+</li>
+<li>在clone其他用户theme的时候产生问题
+<ul>
+<li>版本更新问题一些文档里语句已停止使用，需要修改</li>
+<li>第一个选择的theme诈骗，实装后图文不符</li>
+</ul>
+</li>
+<li>实装theme后，设置了4个category的index，并设计了4个对应的文章模板</li>
+<li>原本模板中设置了logo栏位但没有说明引用路径，在sidebar相关scripts里找到后成功显示头像</li>
+<li>原本模板字体太大，页面信息量太少不适合电脑阅读，找到了设定字体的两个scripts并直接调整了设置</li>
+<li>发现在首页全部显示全文：
+<ul>
+<li>一个原因是没有引入hasCJKLanguage而导致字数统计错误；</li>
+<li>另一个原因经过反复控制变量对比实验找到了：如果文本中有一些特殊情况分割，就不算进字数统计，.Truncated不会变成True。但目前还没找到具体是什么特殊情况。可能是中英混杂太多导致统计混乱。暂时还没解决，出现类似问题的文档会手动填写more语句</li>
+</ul>
+</li>
+</ul>
+<h2 id="结果results">结果（Results）</h2>
+<ul>
+<li>构建好了可使用的hugo blog，并有了一个较为美观的页面设计</li>
+<li>成功写了第一篇blog</li>
+</ul>
+<h2 id="分析--思考thoughts">分析 &amp; 思考（Thoughts）</h2>
+<ul>
+<li>有什么新发现：
+发现我对前端确实一窍不通，而且因为gpt太快地把solution和code不加解释地灌输给我，实际上没有什么理解。但不是这次开发的重点</li>
+</ul>
+<h2 id="todo--下一步next">TODO / 下一步（Next）</h2>
+<ul>
+<li>每天写journal固然好，idea需要随手记录，是否可能由手机端传输到电脑？手动输入太麻烦</li>
+<li>原本有将blog内容定期传到flomo进行自我洞察分析的打算。flomo的api和如何进行自动化数据传输还需要研究</li>
+</ul>
+  <hr>
+<div class="footer">
+    
+        
+            <div class="previous-post">
+                <a href="https://kiyosejinn.github.io/posts/260114_%E5%B0%9D%E8%AF%95%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/?ref=footer">
+                    <span>« Previous</span>
+                    <br>
+                    尝试开发日志01
+                </a>
+            </div>
+        
+        
+            <div class="next-post">
+                <a href="https://kiyosejinn.github.io/posts/260116_ideas%E6%B1%87%E6%80%BB/?ref=footer">
+                    <span>Next »</span>
+                    <br>
+                    260116_ideas汇总
+                </a>
+            </div>
+        
+    
+</div>
+
+
+
+  
+</div>
+            </main>
+            
+  
+    <div class="article-toc ">
+    <div class="toc-wrapper">
+      <h4 id="contents"></h4>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#背景--目的why">背景 / 目的（Why）</a></li>
+    <li><a href="#数据--环境data--setup">数据 &amp; 环境（Data &amp; Setup）</a></li>
+    <li><a href="#过程记录what-i-did">过程记录（What I Did）</a></li>
+    <li><a href="#结果results">结果（Results）</a></li>
+    <li><a href="#分析--思考thoughts">分析 &amp; 思考（Thoughts）</a></li>
+    <li><a href="#todo--下一步next">TODO / 下一步（Next）</a></li>
+  </ul>
+</nav>
+    </div>
+</div>
+
+  
+
+        </div>
+        
+<button id="back-to-top" class="back-to-top" aria-label="返回顶部" title="返回顶部">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="12" y1="19" x2="12" y2="5"></line>
+        <polyline points="5 12 12 5 19 12"></polyline>
+    </svg>
+</button>
+
+
+    </body>
+</html>
+
