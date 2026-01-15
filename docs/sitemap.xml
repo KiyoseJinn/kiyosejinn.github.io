@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kiyosejinn.github.io/posts/260115_journal/</loc>
+    <loc>http://localhost:1313/posts/260115_journal/</loc>
     <lastmod>2026-01-16T02:41:34+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-01-16T02:41:34+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-16T02:41:34+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/categories/journal/</loc>
+    <loc>http://localhost:1313/categories/journal/</loc>
     <lastmod>2026-01-16T02:41:34+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-01-16T02:41:34+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/posts/260116_ideas%E6%B1%87%E6%80%BB/</loc>
+    <loc>http://localhost:1313/posts/260116_ideas%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2026-01-16T02:22:27+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/categories/ideas/</loc>
+    <loc>http://localhost:1313/categories/ideas/</loc>
     <lastmod>2026-01-16T02:22:27+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/categories/study/</loc>
+    <loc>http://localhost:1313/categories/study/</loc>
     <lastmod>2026-01-15T22:54:56+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-01-15T22:54:56+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/</loc>
+    <loc>http://localhost:1313/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2026-01-15T22:54:56+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/tags/%E6%8E%A2%E7%B4%A2/</loc>
+    <loc>http://localhost:1313/tags/%E6%8E%A2%E7%B4%A2/</loc>
     <lastmod>2026-01-15T22:54:56+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-01-15T22:50:00+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/posts/260114_%E5%B0%9D%E8%AF%95%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</loc>
+    <loc>http://localhost:1313/posts/260114_%E5%B0%9D%E8%AF%95%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2026-01-14T04:40:29+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/posts/251225_merrychristmas/</loc>
+    <loc>http://localhost:1313/posts/251225_merrychristmas/</loc>
     <lastmod>2025-12-25T21:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/tags/mood/</loc>
+    <loc>http://localhost:1313/tags/mood/</loc>
     <lastmod>2025-12-25T21:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://kiyosejinn.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

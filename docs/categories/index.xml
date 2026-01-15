@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Christina&#39;s Lab</title>
-    <link>https://kiyosejinn.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Christina&#39;s Lab</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 16 Jan 2026 02:41:34 +0900</lastBuildDate>
-    <atom:link href="https://kiyosejinn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journal</title>
-      <link>https://kiyosejinn.github.io/categories/journal/</link>
+      <link>http://localhost:1313/categories/journal/</link>
       <pubDate>Fri, 16 Jan 2026 02:41:34 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/categories/journal/</guid>
+      <guid>http://localhost:1313/categories/journal/</guid>
       <description></description>
     </item>
     <item>
       <title>Ideas</title>
-      <link>https://kiyosejinn.github.io/categories/ideas/</link>
+      <link>http://localhost:1313/categories/ideas/</link>
       <pubDate>Fri, 16 Jan 2026 02:22:27 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/categories/ideas/</guid>
+      <guid>http://localhost:1313/categories/ideas/</guid>
       <description></description>
     </item>
     <item>
       <title>Study</title>
-      <link>https://kiyosejinn.github.io/categories/study/</link>
+      <link>http://localhost:1313/categories/study/</link>
       <pubDate>Thu, 15 Jan 2026 22:54:56 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/categories/study/</guid>
+      <guid>http://localhost:1313/categories/study/</guid>
       <description></description>
     </item>
   </channel>

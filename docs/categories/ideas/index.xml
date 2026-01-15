@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ideas on Christina&#39;s Lab</title>
-    <link>https://kiyosejinn.github.io/categories/ideas/</link>
+    <link>http://localhost:1313/categories/ideas/</link>
     <description>Recent content in Ideas on Christina&#39;s Lab</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 16 Jan 2026 02:22:27 +0900</lastBuildDate>
-    <atom:link href="https://kiyosejinn.github.io/categories/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/ideas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>260116_ideas汇总</title>
-      <link>https://kiyosejinn.github.io/posts/260116_ideas%E6%B1%87%E6%80%BB/</link>
+      <link>http://localhost:1313/posts/260116_ideas%E6%B1%87%E6%80%BB/</link>
       <pubDate>Fri, 16 Jan 2026 02:22:27 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/posts/260116_ideas%E6%B1%87%E6%80%BB/</guid>
+      <guid>http://localhost:1313/posts/260116_ideas%E6%B1%87%E6%80%BB/</guid>
       <description>&lt;h2 id=&#34;想法概述idea&#34;&gt;想法概述（Idea）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;给mao开发一个根据她公司基本workflow简化操作的系统&lt;/li&gt;&#xA;&lt;li&gt;为了解决我日语语法学习动机不足的问题，需要设计一套语法学习的workflow&lt;/li&gt;&#xA;&lt;li&gt;让llm解决问题时，得不到有效答案时需要拆解可能出问题的步骤，逐步找答案&lt;/li&gt;&#xA;&lt;li&gt;就算对情绪分析已经到位，身心自动产生的隐痛还是需要时间去逐渐消化&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
