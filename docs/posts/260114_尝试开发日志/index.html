@@ -139,7 +139,7 @@
     },
     "datePublished": "2026-01-14",
     "description": "利用技术解决生活痛点的尝试",
-    "wordCount": "1089",
+    "wordCount": "1143",
     "mainEntityOfPage": "True",
     "dateModified": "2026-01-14",
     "image": {
@@ -301,15 +301,15 @@
             <p>Recent</p>
             
             
-                <a href="/posts/260115_journal/">260115_日记</a>
+                <a href="/posts/260120_%E7%94%9F%E6%B4%BB%E7%8A%B6%E6%80%81%E7%9A%84%E6%94%B9%E5%8F%98/">生活状态的改变</a>
             
-                <a href="/posts/260116_ideas%E6%B1%87%E6%80%BB/">260116_ideas汇总</a>
+                <a href="/posts/260119_journal/">260119_journal</a>
             
-                <a href="/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/">基于hugo的个人博客的搭建</a>
+                <a href="/posts/260119_%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0workflow%E5%88%9D%E6%8E%A2/">日语学习workflow初探</a>
             
-                <a href="/posts/260114_%E5%B0%9D%E8%AF%95%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/">尝试开发日志01</a>
+                <a href="/posts/260118_journal/">260116-18_journal</a>
             
-                <a href="/posts/251225_merrychristmas/">MerryChristmas</a>
+                <a href="/posts/260116_ntt_data_weave/">就职-NTT_Data_Weave</a>
             
             <a href="/posts/">See All Posts →</a>
         
@@ -373,7 +373,7 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     <div class="post-stats">
         <span class="stat-item">
             <span class="stat-label">Words:</span>
-            <span class="stat-value">1089</span>
+            <span class="stat-value">1143</span>
         </span>
         <span class="stat-separator">·</span>
         <span class="stat-item">
@@ -389,8 +389,8 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     
     <ul class="tags">
         
-        <li class="tag-探索">
-            <a href="https://kiyosejinn.github.io/tags/%E6%8E%A2%E7%B4%A2">探索</a>
+        <li class="tag-开发">
+            <a href="https://kiyosejinn.github.io/tags/%E5%BC%80%E5%8F%91">开发</a>
         </li>
         
     </ul>
@@ -452,8 +452,8 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 <h2 id="过程记录what-i-did">过程记录（What I Did）</h2>
 <ol>
 <li>
-<p>时间管理shortcuts
-shortcuts就是模板化的编程，知道它有什么工具函数、确认好实现逻辑后在gpt指导下实现即可。
+<p>时间管理shortcuts<br>
+shortcuts就是模板化的编程，知道它有什么工具函数、确认好实现逻辑后在gpt指导下实现即可。<br>
 主要功能实现后，稍微修了一下edge，例如没有正在进行的活动但调用了结束，或现有任务没结束再次调用了开始。</p>
 </li>
 <li>
@@ -461,20 +461,19 @@ shortcuts就是模板化的编程，知道它有什么工具函数、确认好�
 </li>
 </ol>
 <ul>
-<li>设计了一大堆schema：
+<li>设计了一大堆schema：<br>
 食材营养表、食材库存、烹饪方式、套餐模板（如盖饭、火锅等，限制天马行空）、餐食模板（从前端传递用户餐食偏好需求）、用户每日营养目标（热量和微量元素）、用户每日喜好基础设置（烹饪方式等）、做菜食材、计划生成的菜、一天营养汇总、根据保质期食材建议、检查营养和卡路里最终摄入、一天的菜单、plan的请求</li>
-<li>设计了一大堆工具函数：
-没列举因为昨天没读完</li>
+<li>设计了一大堆工具函数：没列举因为昨天没读完</li>
 <li>接LLM，遇到很多问题
 <ul>
 <li>api key存环境变量没成功</li>
 <li>model型号弄错导致429报错没token</li>
-<li>lm返回raw data不是json导致结果返回错误</li>
+<li>llm返回raw data不是json导致结果返回错误(prompt里要求它返回json但大模型会偷懒，用response_mime_type强制输出json)</li>
 </ul>
 </li>
 </ul>
 <h2 id="结果results">结果（Results）</h2>
-<p>1.时间管理shortcuts
+<p>1.时间管理shortcuts<br>
 已投入实用</p>
 <p>2.what-to-eat</p>
 <ul>
@@ -483,14 +482,14 @@ shortcuts就是模板化的编程，知道它有什么工具函数、确认好�
 </ul>
 <h2 id="分析--思考thoughts">分析 &amp; 思考（Thoughts）</h2>
 <ul>
-<li>shortcuts的条件就是if循环
+<li>shortcuts的条件就是if循环<br>
 套几层视觉方面就很难操作了。要么精简算法，要么放弃复杂逻辑</li>
-<li>还是很不熟悉全栈开发的流程
+<li>还是很不熟悉全栈开发的流程<br>
 我不太清楚从哪里开始起步，只是被gpt拖着跑。这样没有深思熟虑地高速起步，虽然前期会有蜜月期（极快速得到功能实现雏形），但我现在对很多的class结构/schema如何整合还是没有完全理解，心里没底。</li>
 </ul>
 <h2 id="todo--下一步next">TODO / 下一步（Next）</h2>
 <ul>
-<li>what-to-eat的下一步是接实际的营养库
+<li>what-to-eat的下一步是接实际的营养库<br>
 如果要爬美国数据库，不仅涉及爬虫操作，还需要将英语名称翻译成中文，工作量很大要思考一下处理方法。</li>
 <li>学习一下全栈开发的基础workflow</li>
 </ul>

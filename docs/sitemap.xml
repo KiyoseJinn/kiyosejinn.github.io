@@ -2,37 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kiyosejinn.github.io/categories/</loc>
+    <lastmod>2026-01-20T00:35:54+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/</loc>
+    <lastmod>2026-01-20T00:35:54+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/categories/journal/</loc>
+    <lastmod>2026-01-20T00:35:54+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/posts/</loc>
+    <lastmod>2026-01-20T00:35:54+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/posts/260120_%E7%94%9F%E6%B4%BB%E7%8A%B6%E6%80%81%E7%9A%84%E6%94%B9%E5%8F%98/</loc>
+    <lastmod>2026-01-20T00:35:54+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/posts/260119_journal/</loc>
+    <lastmod>2026-01-19T23:23:27+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/categories/study/</loc>
+    <lastmod>2026-01-19T22:58:52+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/tags/</loc>
+    <lastmod>2026-01-19T22:58:52+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/tags/%E6%97%A5%E8%AF%AD/</loc>
+    <lastmod>2026-01-19T22:58:52+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/posts/260119_%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0workflow%E5%88%9D%E6%8E%A2/</loc>
+    <lastmod>2026-01-19T22:58:52+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/posts/260118_journal/</loc>
+    <lastmod>2026-01-18T23:08:09+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/categories/work/</loc>
+    <lastmod>2026-01-16T19:26:21+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/tags/%E5%A4%B1%E8%B4%A5%E7%BB%8F%E5%8E%86/</loc>
+    <lastmod>2026-01-16T19:26:21+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/tags/%E5%B0%B1%E8%81%8C/</loc>
+    <lastmod>2026-01-16T19:26:21+09:00</lastmod>
+  </url><url>
+    <loc>https://kiyosejinn.github.io/posts/260116_ntt_data_weave/</loc>
+    <lastmod>2026-01-16T19:26:21+09:00</lastmod>
+  </url><url>
     <loc>https://kiyosejinn.github.io/posts/260115_journal/</loc>
     <lastmod>2026-01-16T02:41:34+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/categories/</loc>
+    <loc>https://kiyosejinn.github.io/tags/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2026-01-16T02:41:34+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/</loc>
-    <lastmod>2026-01-16T02:41:34+09:00</lastmod>
-  </url><url>
-    <loc>https://kiyosejinn.github.io/categories/journal/</loc>
-    <lastmod>2026-01-16T02:41:34+09:00</lastmod>
-  </url><url>
-    <loc>https://kiyosejinn.github.io/posts/</loc>
-    <lastmod>2026-01-16T02:41:34+09:00</lastmod>
-  </url><url>
-    <loc>https://kiyosejinn.github.io/posts/260116_ideas%E6%B1%87%E6%80%BB/</loc>
+    <loc>https://kiyosejinn.github.io/posts/260115_ideas/</loc>
     <lastmod>2026-01-16T02:22:27+09:00</lastmod>
   </url><url>
     <loc>https://kiyosejinn.github.io/categories/ideas/</loc>
     <lastmod>2026-01-16T02:22:27+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/categories/study/</loc>
-    <lastmod>2026-01-15T22:54:56+09:00</lastmod>
-  </url><url>
-    <loc>https://kiyosejinn.github.io/tags/</loc>
-    <lastmod>2026-01-15T22:54:56+09:00</lastmod>
-  </url><url>
     <loc>https://kiyosejinn.github.io/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2026-01-15T22:54:56+09:00</lastmod>
   </url><url>
-    <loc>https://kiyosejinn.github.io/tags/%E6%8E%A2%E7%B4%A2/</loc>
+    <loc>https://kiyosejinn.github.io/tags/%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2026-01-15T22:54:56+09:00</lastmod>
   </url><url>
     <loc>https://kiyosejinn.github.io/about/</loc>

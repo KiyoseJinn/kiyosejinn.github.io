@@ -8,6 +8,7 @@ theme = "kong-htop"
 [pagination]
   pagerSize = 10
 pluralizelisttitles = false
+enableEmoji = true
 
 [params]
     title = "Christina's Lab"

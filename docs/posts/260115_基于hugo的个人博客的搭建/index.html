@@ -139,7 +139,7 @@
     },
     "datePublished": "2026-01-15",
     "description": "个人记录和观察的第一步",
-    "wordCount": "901",
+    "wordCount": "1551",
     "mainEntityOfPage": "True",
     "dateModified": "2026-01-15",
     "image": {
@@ -301,15 +301,15 @@
             <p>Recent</p>
             
             
-                <a href="/posts/260115_journal/">260115_日记</a>
+                <a href="/posts/260120_%E7%94%9F%E6%B4%BB%E7%8A%B6%E6%80%81%E7%9A%84%E6%94%B9%E5%8F%98/">生活状态的改变</a>
             
-                <a href="/posts/260116_ideas%E6%B1%87%E6%80%BB/">260116_ideas汇总</a>
+                <a href="/posts/260119_journal/">260119_journal</a>
             
-                <a href="/posts/260115_%E5%9F%BA%E4%BA%8Ehugo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/">基于hugo的个人博客的搭建</a>
+                <a href="/posts/260119_%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0workflow%E5%88%9D%E6%8E%A2/">日语学习workflow初探</a>
             
-                <a href="/posts/260114_%E5%B0%9D%E8%AF%95%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/">尝试开发日志01</a>
+                <a href="/posts/260118_journal/">260116-18_journal</a>
             
-                <a href="/posts/251225_merrychristmas/">MerryChristmas</a>
+                <a href="/posts/260116_ntt_data_weave/">就职-NTT_Data_Weave</a>
             
             <a href="/posts/">See All Posts →</a>
         
@@ -373,12 +373,12 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     <div class="post-stats">
         <span class="stat-item">
             <span class="stat-label">Words:</span>
-            <span class="stat-value">901</span>
+            <span class="stat-value">1551</span>
         </span>
         <span class="stat-separator">·</span>
         <span class="stat-item">
             <span class="stat-label">Reading:</span>
-            <span class="stat-value">2 min</span>
+            <span class="stat-value">4 min</span>
         </span>
         
     </div>
@@ -389,8 +389,8 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     
     <ul class="tags">
         
-        <li class="tag-探索">
-            <a href="https://kiyosejinn.github.io/tags/%E6%8E%A2%E7%B4%A2">探索</a>
+        <li class="tag-开发">
+            <a href="https://kiyosejinn.github.io/tags/%E5%BC%80%E5%8F%91">开发</a>
         </li>
         
     </ul>
@@ -440,21 +440,36 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 <li>另一个原因经过反复控制变量对比实验找到了：如果文本中有一些特殊情况分割，就不算进字数统计，.Truncated不会变成True。但目前还没找到具体是什么特殊情况。可能是中英混杂太多导致统计混乱。暂时还没解决，出现类似问题的文档会手动填写more语句</li>
 </ul>
 </li>
+<li>本地部署完成后开始线上部署，遇到很多问题：
+<ul>
+<li>第一次使用pages，在用根目录 username.github.io 给repo命名的时候没有注意username需要完全一致，导致最后网址变成 kiyosejinn.github.io/jinn.github.io的神秘大肠包小肠</li>
+<li>由于themes中包含隐藏的.git文件，导致add时提示两个git嵌套风险。<br>
+dir /a确认.git文件存在后，attrib -h -s去掉隐藏和系统属性后删除。</li>
+<li>push成功但pages无法deploy，报错存在.gitmodules提示有&quot;themes/kong-htop&quot;博客模板的submodule但找不到对应url path.相当于git submodule status一直在报fatal error中断runs.<br>
+gpt建议在本地和repo里都仔细找.gitmodules文件然后删掉。但实际上不存在名为.gitmodules的文件，也因此死循环卡了很久。<br>
+最后发现是在themes的README和examplesite里存在对submodule theme/kong-htop的提示，没什么用就删掉了。注释掉应该也一样。</li>
+<li>因为排版看起来侧边栏字有点小，调整了一下字体设置后push，然后字体没有改变，同时有些页面显示异常。<br>
+当时push时没有清理docs重新生成，这个原因导致字体大小更新没有更新到页面上。不清楚是否同一个原因导致显示异常。<br>
+但日常更细只需要新增新日志docs即可不用清除原来的。</li>
+</ul>
+</li>
 </ul>
 <h2 id="结果results">结果（Results）</h2>
 <ul>
 <li>构建好了可使用的hugo blog，并有了一个较为美观的页面设计</li>
 <li>成功写了第一篇blog</li>
+<li>上线github托管，可以线上访问</li>
 </ul>
 <h2 id="分析--思考thoughts">分析 &amp; 思考（Thoughts）</h2>
 <ul>
-<li>有什么新发现：
+<li>有什么新发现：<br>
 发现我对前端确实一窍不通，而且因为gpt太快地把solution和code不加解释地灌输给我，实际上没有什么理解。但不是这次开发的重点</li>
 </ul>
 <h2 id="todo--下一步next">TODO / 下一步（Next）</h2>
 <ul>
 <li>每天写journal固然好，idea需要随手记录，是否可能由手机端传输到电脑？手动输入太麻烦</li>
 <li>原本有将blog内容定期传到flomo进行自我洞察分析的打算。flomo的api和如何进行自动化数据传输还需要研究</li>
+<li>手机端打开阅览并不顺利，要怎么开发双端的UI？</li>
 </ul>
   <hr>
 <div class="footer">
@@ -470,7 +485,7 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
         
         
             <div class="next-post">
-                <a href="https://kiyosejinn.github.io/posts/260116_ideas%E6%B1%87%E6%80%BB/?ref=footer">
+                <a href="https://kiyosejinn.github.io/posts/260115_ideas/?ref=footer">
                     <span>Next »</span>
                     <br>
                     260116_ideas汇总
