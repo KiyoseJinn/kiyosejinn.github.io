@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>日语 on Christina&#39;s Lab</title>
-    <link>https://kiyosejinn.github.io/tags/%E6%97%A5%E8%AF%AD/</link>
+    <link>http://localhost:1313/tags/%E6%97%A5%E8%AF%AD/</link>
     <description>Recent content in 日语 on Christina&#39;s Lab</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 19 Jan 2026 22:58:52 +0900</lastBuildDate>
-    <atom:link href="https://kiyosejinn.github.io/tags/%E6%97%A5%E8%AF%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%97%A5%E8%AF%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日语学习workflow初探</title>
-      <link>https://kiyosejinn.github.io/posts/260119_%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0workflow%E5%88%9D%E6%8E%A2/</link>
+      <link>http://localhost:1313/posts/260119_%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0workflow%E5%88%9D%E6%8E%A2/</link>
       <pubDate>Mon, 19 Jan 2026 22:58:52 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/posts/260119_%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0workflow%E5%88%9D%E6%8E%A2/</guid>
+      <guid>http://localhost:1313/posts/260119_%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0workflow%E5%88%9D%E6%8E%A2/</guid>
       <description>&lt;h2 id=&#34;背景--目的why&#34;&gt;背景 / 目的（Why）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;针对需求，设定自己每日日语学习workflow&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

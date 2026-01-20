@@ -3,7 +3,7 @@ title: "日语学习workflow初探"
 date: 2026-01-19T22:58:52+09:00
 description: ""
 categories: ["study"]
-tags: ["日语"]
+tags: ["Japanese"]
 draft: flase
 ---
 
