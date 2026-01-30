@@ -2,66 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal on Christina&#39;s Lab</title>
-    <link>http://localhost:1313/categories/journal/</link>
+    <link>https://kiyosejinn.github.io/categories/journal/</link>
     <description>Recent content in Journal on Christina&#39;s Lab</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 30 Jan 2026 09:26:39 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/journal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kiyosejinn.github.io/categories/journal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>260129_journal</title>
-      <link>http://localhost:1313/posts/260129_journal/</link>
+      <link>https://kiyosejinn.github.io/posts/260129_journal/</link>
       <pubDate>Fri, 30 Jan 2026 09:26:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/260129_journal/</guid>
+      <guid>https://kiyosejinn.github.io/posts/260129_journal/</guid>
       <description>&lt;p&gt;关于近期的行为对行为和思考模式的反思&lt;/p&gt;</description>
     </item>
     <item>
-      <title>260128_journal</title>
-      <link>http://localhost:1313/posts/260128_journal/</link>
-      <pubDate>Wed, 28 Jan 2026 04:51:06 +0900</pubDate>
-      <guid>http://localhost:1313/posts/260128_journal/</guid>
-      <description>&lt;h2 id=&#34;今天发生了什么what&#34;&gt;今天发生了什么（What）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;从1.21晚上通宵打博德之门，1.23开始打终末地，不眠不休地玩了5天，又陷入了逃避的漩涡。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>260114 260119周认知行为模式洞察报告</title>
-      <link>http://localhost:1313/posts/260114-260119%E5%91%A8%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F%E6%B4%9E%E5%AF%9F%E6%8A%A5%E5%91%8A/</link>
+      <link>https://kiyosejinn.github.io/posts/260114-260119%E5%91%A8%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F%E6%B4%9E%E5%AF%9F%E6%8A%A5%E5%91%8A/</link>
       <pubDate>Tue, 20 Jan 2026 01:35:42 +0900</pubDate>
-      <guid>http://localhost:1313/posts/260114-260119%E5%91%A8%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F%E6%B4%9E%E5%AF%9F%E6%8A%A5%E5%91%8A/</guid>
+      <guid>https://kiyosejinn.github.io/posts/260114-260119%E5%91%A8%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F%E6%B4%9E%E5%AF%9F%E6%8A%A5%E5%91%8A/</guid>
       <description>&lt;p&gt;直接说结论：这周你的“认知和行为模式”已经在明显换轨，从“用鞭子逼自己”向“用系统和工具扶自己”过渡。下面我按&lt;strong&gt;模式 → 风险 → 建议&lt;/strong&gt;来整理。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;一这周暴露出来的几条核心模式&#34;&gt;一、这周暴露出来的几条核心模式&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-高动机高爆发启动困难的经典组合&#34;&gt;1. 高动机高爆发＋启动困难的经典组合&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;看到好玩的东西（Shortcuts、what-to-eat 项目、Hugo blog），你会&lt;strong&gt;一头扎进去连续几小时甚至几天狂干&lt;/strong&gt;，直到交感神经过度兴奋、脑子烧坏为止。&lt;/li&gt;&#xA;&lt;li&gt;一旦遇到&lt;strong&gt;负反馈/失落（NTT Data 书类落选）＋身体疲劳&lt;/strong&gt;，立刻切换成“什么都不想动”“手游＋视频打一整天”的完全关机模式。你自己也点出了这是“启动困难”的典型形态。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;关键词：&lt;strong&gt;爆种 → 精神透支 → 长时间瘫痪 → 再爆种&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>生活状态的改变</title>
-      <link>http://localhost:1313/posts/260120_%E7%94%9F%E6%B4%BB%E7%8A%B6%E6%80%81%E7%9A%84%E6%94%B9%E5%8F%98/</link>
+      <link>https://kiyosejinn.github.io/posts/260120_%E7%94%9F%E6%B4%BB%E7%8A%B6%E6%80%81%E7%9A%84%E6%94%B9%E5%8F%98/</link>
       <pubDate>Tue, 20 Jan 2026 00:35:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/260120_%E7%94%9F%E6%B4%BB%E7%8A%B6%E6%80%81%E7%9A%84%E6%94%B9%E5%8F%98/</guid>
+      <guid>https://kiyosejinn.github.io/posts/260120_%E7%94%9F%E6%B4%BB%E7%8A%B6%E6%80%81%E7%9A%84%E6%94%B9%E5%8F%98/</guid>
       <description>&lt;h2 id=&#34;明显的变化&#34;&gt;明显的变化&lt;/h2&gt;&#xA;&lt;p&gt;1月开始决心和过去的比较颓废的、每天无知无觉一事无成的日子告别。意识到我此前有很严重拖延症状的原因是：&lt;/p&gt;&#xA;&lt;p&gt;1） 觉得除了“正确的事”之外的事都是错误的、罪恶的，导致休息的时候心理负担也很大，启动去做有建设性意义的事面前的心理负担更大了。开始随手在daygram记录每天特定时间在干什么、在想什么，包括那些我潜意识里觉得是错误的事，比如打游戏、看视频。这样反而更有了我在好好生活的实感。生活并不分对错，小时候内化的scold us的父母，已经不适合继续鞭策我。&lt;br&gt;&#xA;2） 此前精神状态很明显也不是很稳定，精力和情绪上的负债很多，需要一段时间的修养与康复。&lt;/p&gt;</description>
     </item>
     <item>
       <title>260119_journal</title>
-      <link>http://localhost:1313/posts/260119_journal/</link>
+      <link>https://kiyosejinn.github.io/posts/260119_journal/</link>
       <pubDate>Mon, 19 Jan 2026 23:23:27 +0900</pubDate>
-      <guid>http://localhost:1313/posts/260119_journal/</guid>
+      <guid>https://kiyosejinn.github.io/posts/260119_journal/</guid>
       <description>&lt;h2 id=&#34;今天发生了什么what&#34;&gt;今天发生了什么（What）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;听了rakuten career conference：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;了解了rakuten和amazon的区别：amazon是branding，rakuten强调boost local company&lt;/li&gt;&#xA;&lt;li&gt;强调global和ai发展&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>260116-18_journal</title>
-      <link>http://localhost:1313/posts/260118_journal/</link>
+      <link>https://kiyosejinn.github.io/posts/260118_journal/</link>
       <pubDate>Sun, 18 Jan 2026 23:08:09 +0900</pubDate>
-      <guid>http://localhost:1313/posts/260118_journal/</guid>
+      <guid>https://kiyosejinn.github.io/posts/260118_journal/</guid>
       <description>&lt;h2 id=&#34;今天发生了什么what&#34;&gt;今天发生了什么（What）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;周末有一种cheat day的感觉&#xA;&lt;ul&gt;&#xA;&lt;li&gt;周五晚收尾了TA的工作，完成了机械课作业，做好了NTT DATA WEAVE的失败就职复盘。然后不得不说情绪还是受了第一次就职书类落的影响（之间前辈说上智一般不会落），躺进被窝里后就什么思考工作都不想干了。&lt;/li&gt;&#xA;&lt;li&gt;周六在周五熬夜后持续这个过程，于是打了一天手游。&lt;/li&gt;&#xA;&lt;li&gt;周日下午四点刚起，唯一建设性工作是认真读了一篇agent+skill代替workflow的文章做了笔记，其他时间在吃饭和娱乐。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>260115_日记</title>
-      <link>http://localhost:1313/posts/260115_journal/</link>
+      <link>https://kiyosejinn.github.io/posts/260115_journal/</link>
       <pubDate>Fri, 16 Jan 2026 02:41:34 +0900</pubDate>
-      <guid>http://localhost:1313/posts/260115_journal/</guid>
+      <guid>https://kiyosejinn.github.io/posts/260115_journal/</guid>
       <description>&lt;h2 id=&#34;今天发生了什么what&#34;&gt;今天发生了什么（What）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;搭建了hugo blog&lt;/li&gt;&#xA;&lt;li&gt;信息过载，沉浸在ai无所不能的大跃进里不可自拔（？&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>MerryChristmas</title>
-      <link>http://localhost:1313/posts/251225_merrychristmas/</link>
+      <link>https://kiyosejinn.github.io/posts/251225_merrychristmas/</link>
       <pubDate>Thu, 25 Dec 2025 21:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/251225_merrychristmas/</guid>
+      <guid>https://kiyosejinn.github.io/posts/251225_merrychristmas/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;😊🍷🍮&lt;/h2&gt;&#xA;&lt;p&gt;一个人在东京的生活第一次遇到需要独自度过的圣诞节。提前买好了食材、香料、甜点和红酒，暖暖地在家里准备度过。圣诞前夜煮了豆乳锅，吃了买的蛋奶塔。晚上饿了又煮了酱油锅，锅料理真的很能在冬夜给人幸福感。&lt;/p&gt;</description>
     </item>
   </channel>

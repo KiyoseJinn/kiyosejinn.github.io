@@ -1,10 +1,10 @@
 ---
 title: "260122_shadowing"
-date: 2026-01-30T10:39:25+09:00
+date: 2026-01-23T10:39:25+09:00
 description: ""
 categories: ["study"]
 tags: []
-draft: true
+draft: false
 ---
 
 ## 原文 （Scripts）

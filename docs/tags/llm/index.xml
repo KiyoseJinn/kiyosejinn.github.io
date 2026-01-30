@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LLM on Christina&#39;s Lab</title>
-    <link>http://localhost:1313/tags/llm/</link>
+    <link>https://kiyosejinn.github.io/tags/llm/</link>
     <description>Recent content in LLM on Christina&#39;s Lab</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 21 Jan 2026 19:37:43 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kiyosejinn.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLM基本概念学习</title>
-      <link>http://localhost:1313/posts/260121_llm%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0/</link>
+      <link>https://kiyosejinn.github.io/posts/260121_llm%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Wed, 21 Jan 2026 19:37:43 +0900</pubDate>
-      <guid>http://localhost:1313/posts/260121_llm%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0/</guid>
+      <guid>https://kiyosejinn.github.io/posts/260121_llm%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0/</guid>
       <description>&lt;h2 id=&#34;背景--目的why&#34;&gt;背景 / 目的（Why）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;意识到我对computer science概念的认知还停留在2020年毕业的时候学习的概念。&lt;/li&gt;&#xA;&lt;li&gt;我了解machine learning的算法、CNN的结构、NLP的基础操作，但这些内容已经out of date&lt;/li&gt;&#xA;&lt;li&gt;更新cs相关知识，理解llm的算法机制&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
