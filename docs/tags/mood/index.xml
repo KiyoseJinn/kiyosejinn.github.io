@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mood on Christina&#39;s Lab</title>
-    <link>https://kiyosejinn.github.io/tags/mood/</link>
+    <link>http://localhost:1313/tags/mood/</link>
     <description>Recent content in Mood on Christina&#39;s Lab</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 25 Dec 2025 21:00:00 +0900</lastBuildDate>
-    <atom:link href="https://kiyosejinn.github.io/tags/mood/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mood/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MerryChristmas</title>
-      <link>https://kiyosejinn.github.io/posts/251225_merrychristmas/</link>
+      <link>http://localhost:1313/posts/251225_merrychristmas/</link>
       <pubDate>Thu, 25 Dec 2025 21:00:00 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/posts/251225_merrychristmas/</guid>
+      <guid>http://localhost:1313/posts/251225_merrychristmas/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;😊🍷🍮&lt;/h2&gt;&#xA;&lt;p&gt;一个人在东京的生活第一次遇到需要独自度过的圣诞节。提前买好了食材、香料、甜点和红酒，暖暖地在家里准备度过。圣诞前夜煮了豆乳锅，吃了买的蛋奶塔。晚上饿了又煮了酱油锅，锅料理真的很能在冬夜给人幸福感。&lt;/p&gt;</description>
     </item>
   </channel>

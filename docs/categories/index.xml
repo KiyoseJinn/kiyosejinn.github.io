@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Christina&#39;s Lab</title>
-    <link>https://kiyosejinn.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Christina&#39;s Lab</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 20 Jan 2026 18:47:48 +0900</lastBuildDate>
-    <atom:link href="https://kiyosejinn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jan 2026 10:39:25 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Study</title>
-      <link>https://kiyosejinn.github.io/categories/study/</link>
-      <pubDate>Tue, 20 Jan 2026 18:47:48 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/categories/study/</guid>
+      <link>http://localhost:1313/categories/study/</link>
+      <pubDate>Fri, 30 Jan 2026 10:39:25 +0900</pubDate>
+      <guid>http://localhost:1313/categories/study/</guid>
       <description></description>
     </item>
     <item>
       <title>Journal</title>
-      <link>https://kiyosejinn.github.io/categories/journal/</link>
-      <pubDate>Tue, 20 Jan 2026 01:35:42 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/categories/journal/</guid>
+      <link>http://localhost:1313/categories/journal/</link>
+      <pubDate>Fri, 30 Jan 2026 09:26:39 +0900</pubDate>
+      <guid>http://localhost:1313/categories/journal/</guid>
       <description></description>
     </item>
     <item>
       <title>Work</title>
-      <link>https://kiyosejinn.github.io/categories/work/</link>
+      <link>http://localhost:1313/categories/work/</link>
       <pubDate>Fri, 16 Jan 2026 19:26:21 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/categories/work/</guid>
+      <guid>http://localhost:1313/categories/work/</guid>
       <description></description>
     </item>
     <item>
       <title>Ideas</title>
-      <link>https://kiyosejinn.github.io/categories/ideas/</link>
+      <link>http://localhost:1313/categories/ideas/</link>
       <pubDate>Fri, 16 Jan 2026 02:22:27 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/categories/ideas/</guid>
+      <guid>http://localhost:1313/categories/ideas/</guid>
       <description></description>
     </item>
   </channel>

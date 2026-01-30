@@ -41,12 +41,14 @@ draft: false
 
 ## 我的感受 / 情绪（Feel）
 
-- 
+- 挺充实，效率还不错
 
 ## 学到或发现了什么（Learn）
 
-- 
+- 细节了解了case interview的分析法，实战可以在专门学习一下不同种类怎么应对，肯定有模式化的方法论
 
 ## 今天停在哪里，明天从哪启动（CheckPoint）
 
-- 
+- 日语学习workflow确认开始执行
+- case study方法论后续补充学习和试验分析
+- group discussion能力需要训练

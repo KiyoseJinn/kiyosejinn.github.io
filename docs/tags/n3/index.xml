@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N3 on Christina&#39;s Lab</title>
-    <link>https://kiyosejinn.github.io/tags/n3/</link>
+    <link>http://localhost:1313/tags/n3/</link>
     <description>Recent content in N3 on Christina&#39;s Lab</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 20 Jan 2026 09:44:26 +0900</lastBuildDate>
-    <atom:link href="https://kiyosejinn.github.io/tags/n3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/n3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>N3语法笔记01-02</title>
-      <link>https://kiyosejinn.github.io/posts/260120_n3%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B001/</link>
+      <link>http://localhost:1313/posts/260120_n3%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B001/</link>
       <pubDate>Tue, 20 Jan 2026 09:44:26 +0900</pubDate>
-      <guid>https://kiyosejinn.github.io/posts/260120_n3%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B001/</guid>
+      <guid>http://localhost:1313/posts/260120_n3%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B001/</guid>
       <description>&lt;h2 id=&#34;1-課&#34;&gt;1 課&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-うちに&#34;&gt;1. うちに&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;A. 趁着&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;原始例句：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;明るいうちに庭を掃除をしてしまおう。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;模板造句：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;提出期限が切れないうちにエントリーシートを提出してしまおう。&#xA;&lt;ul&gt;&#xA;&lt;li&gt;が提示主语，期限到期了（自动词）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;締切に間に合ううちにエントリーシートを提出してしまおう。&#xA;&lt;ul&gt;&#xA;&lt;li&gt;に表示目的，赶上（自动词），用が的话截止日期自己赶上不对&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;B. 在…期间/过程中&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;原始例句：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;少し難しい曲でも、練習を重ねるうちに弾けるようになりますよ。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;模板造句：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;外国人でも、日本語の練習を重ねるうちに話せるようになりますよ。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
