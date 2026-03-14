@@ -4,7 +4,7 @@ date: 2026-01-30T09:26:39+09:00
 description: ""
 categories: ["journal"]
 tags: []
-draft: false
+draft: true
 ---
 
 关于近期的行为对行为和思考模式的反思
